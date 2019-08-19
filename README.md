@@ -11,4 +11,4 @@ $ npm install
 $ npm run build
 $ npm run start
 ```
-and then go to http://localhost:3000/ 
+and then go to http://localhost:3000
